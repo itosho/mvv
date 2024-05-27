@@ -18,5 +18,5 @@
 | [LayerX](https://layerx.co.jp/about/) | すべての経済活動をデジタル化する | N/A | 徳 / Trustful Team / Bet Technology / Fact Base / Be Animal（Principles） | N/A | N/A |  N/A | 
 | [ネスレ](https://www.nestle.co.jp/aboutus/how-we-do-business/purpose-values) | N/A | N/A | 自分自身に対する敬意 / 他者に対する敬意 / 多様性に対する敬意 / 未来に対する敬意（価値観） | 食の持つ力で、現在そしてこれからの世代のすべての人々の生活の質を高めていきます | N/A |  N/A |
 | [ファーストリテイリング](https://www.fastretailing.com/jp/about/frway/) | 本当に良い服、今までにない新しい価値を持つ服を創造し、世界中のあらゆる人々に、良い服を着る喜び、幸せ、満足を提供します / 独自の企業活動を通じて人々の暮らしの充実に貢献し、社会との調和ある発展を目指します | 服を変え、常識を変え、世界を変えていく（Statement） | お客様の立場に立脚 / 革新と挑戦 / 個の尊重、会社と個人の成長 /  正しさへのこだわり | N/A | N/A |  N/A | 
-| [KDDI](https://brand.kddi.com/managementplan/) | KDDIグループは、全従業員の物心両面の幸福を追求すると同時に、お客さまの期待を超える感動をお届けすることにより、豊かなコミュニケーション社会の発展に貢献します。（企業理念） | 『つなぐチカラ』を進化させ、誰もが思いを実現できる社会をつくる。（KDDI VISION 2030） | 「心を高める」～動機善なりや、私心なかりしか～（社是） | N/A | [KDDIフィロソフィ](https://www.kddi.com/corporate/kddi/philosophy/) | Tomorrow, Together (ブランドメッセージ) | 
+| [KDDI](https://brand.kddi.com/managementplan/) | N/A | 『つなぐチカラ』を進化させ、誰もが思いを実現できる社会をつくる。（KDDI VISION 2030） | 社員の幸せ、活力ある企業 / お客さまの満足と信頼の確保 / 株主、取引先等の信頼 / 社会の発展（行動指針） | N/A | KDDIグループは、全従業員の物心両面の幸福を追求すると同時に、お客さまの期待を超える感動をお届けすることにより、豊かなコミュニケーション社会の発展に貢献します。（企業理念） | Tomorrow, Together (ブランドメッセージ) | 
 | [N/A]() | N/A | N/A |  N/A | N/A | N/A |  N/A | 
