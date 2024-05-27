@@ -15,4 +15,5 @@
 | [メルカリ](https://about.mercari.com/about/about-us/) | あらゆる価値を循環させ、あらゆる人の可能性を広げる（Group Mission） | N/A | Go Bold / All for One / Be a Pro | N/A | N/A | N/A | 
 | [LITALICO](https://litalico.co.jp/about/vision/) | N/A | 障害のない社会をつくる | N/A | N/A | LITALICO | 人はちがう。それでいい。そこからはじまる (Statement) | 
 | [YOUTRUST](https://youtrust.co.jp/message/) | N/A | 日本のモメンタムを上げる偉大な会社を創る | 元気は、利益。 / 変化を起こせ。 / やりきってるか？（YOUPROMISE） | N/A | N/A | N/A | 
+| [カケハシ](https://www.kakehashi.life/about) | 日本の医療体験を、しなやかに。 | 明⽇の医療の基盤となる、エコシステムの実現。 |  高潔 / 価値貢献 / カタチにする / 無知の知 / 変幻自在 / 情報対称性 | N/A | N/A |  N/A | 
 | [N/A]() | N/A | N/A |  N/A | N/A | N/A |  N/A | 
